@@ -1,0 +1,7 @@
+{
+  "name": "Coding Keyboard",
+  "description": "A feature-packed programmer keyboard and coding sandbox with full modifier keys (Ctrl, Alt, Esc, Tab), programming symbols, code snippets, multi-language IDE playground, syntax highlighting, and custom IME support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
